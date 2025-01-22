@@ -23,7 +23,7 @@ header {
     color: white;
     text-align: center;
     padding: 50px 20px;
-    background-image: url('assets/banner.jpg');
+    background-image: url('banner.jpg');
     background-size: cover;
     background-position: center;
 }
